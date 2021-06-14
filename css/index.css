@@ -100,13 +100,13 @@ img {
 }
 
 .review .review-text {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   margin-top: 1rem;
   color: #8f7d98;
 }
 
 .review .btn-container {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 
 .review .btn-container > button {
@@ -119,7 +119,7 @@ img {
 }
 
 .review .btn-container .pre {
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 .review .btn {
@@ -135,7 +135,7 @@ img {
   font-size: 1.1rem;
   color: #49a6e9;
   border: 2px solid #49a6e9;
-  padding: 10px 12px;
+  padding: 14px 16px;
   border-radius: 7px;
 }
 

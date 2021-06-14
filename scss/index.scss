@@ -109,13 +109,13 @@ img {
   }
 
   .review-text {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     margin-top: 1rem;
     color: $text-color;
   }
 
   .btn-container {
-    margin-top: 1rem;
+    margin-top: 1.5rem;
 
     & > button {
       font-size: 1.4rem;
@@ -127,7 +127,7 @@ img {
     }
 
     .pre {
-      margin-right: 1rem;
+      margin-right: 2rem;
     }
   }
 
@@ -144,7 +144,7 @@ img {
     font-size: 1.1rem;
     color: $primary-color;
     border: 2px solid $primary-color;
-    padding: 10px 12px;
+    padding: 14px 16px;
     border-radius: 7px;
 
     &:hover {
