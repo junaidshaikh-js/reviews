@@ -64,6 +64,11 @@ This project is a part of 15 vanilla JavaScript projects.
 - [view](https://junaidshaikh-js.github.io/color-flipper/)
 - [Github](https://github.com/junaidshaikh-js/color-flipper)
 
+3. Navbar
+
+- [view](https://junaidshaikh-js.github.io/navbar/)
+- [Github](https://github.com/junaidshaikh-js/navbar)
+
 ## Author
 
 - Linkedin - [@junaidshaikhjs](https://www.linkedin.com/in/junaidshaikhjs/)
